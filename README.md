@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DineshRajana
+- 👀 I'm working as a Production Support Technical Software Engineer
 - 👀 I’m interested in learning Technical skills
 - 🌱 I’m currently learning Devops with AWS
 - 💞️ I’m looking to collaborate on Devops tasks
